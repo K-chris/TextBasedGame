@@ -57,8 +57,6 @@ if __name__ == '__main__':
         player_name=input('Enter in your player name\n')
         print('\n\n')
 
-
-
     while True:
         print_player_info(player_name,inventory)
         print_room_info(current_room,items)
