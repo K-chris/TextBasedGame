@@ -58,6 +58,7 @@ if __name__ == '__main__':
         print('\n\n')
 
 
+
     while True:
         print_player_info(player_name,inventory)
         print_room_info(current_room,items)
